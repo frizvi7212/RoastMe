@@ -11,8 +11,7 @@
 ---
 
 ## 🎬 Demo
- <img width="3840" height="2160" alt="1337222" src="https://github.com/user-attachments/assets/394e59d7-b39b-4907-9a0f-266200a614fc" />
-
+ [Watch Demo Video] https://youtu.be/tUtIYX4m6Jc
 
 ---
 
