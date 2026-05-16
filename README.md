@@ -11,7 +11,8 @@
 ---
 
 ## 🎬 Demo
-[Watch Demo Video](your youtube link here)
+ <img width="3840" height="2160" alt="1337222" src="https://github.com/user-attachments/assets/394e59d7-b39b-4907-9a0f-266200a614fc" />
+
 
 ---
 
@@ -51,17 +52,6 @@ from scratch in about a week.
 - MediaPipe — hand detection
 - Groq API — AI roasting
 - NumPy — screen layout
-
-## 📁 Project Structure
-RoastMe/
-├── project.py          ← main game
-├── roast.py            ← AI roast function
-├── test_project.py     ← pytest tests
-├── requirements.txt    ← dependencies
-├── hand_landmarker.task← MediaPipe model
-└── README.md
-
----
 
 ## ⚙️ How It Works
 
